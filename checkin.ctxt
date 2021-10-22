@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=checkin
+comment1.params=
+comment1.target=void\ checkin()
+comment2.params=
+comment2.target=void\ days()
+comment3.params=
+comment3.target=void\ nonac()
+comment4.params=
+comment4.target=void\ ac()
+comment5.params=
+comment5.target=void\ delux()
+comment6.params=
+comment6.target=void\ sdelux()
+numComments=7
